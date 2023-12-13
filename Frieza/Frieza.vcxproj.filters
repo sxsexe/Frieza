@@ -5,8 +5,10 @@
     <ClInclude Include="src\Frieza\Application.h" />
     <ClInclude Include="src\Frieza\Core.h" />
     <ClInclude Include="src\Frieza\EntryPoint.h" />
+    <ClInclude Include="src\Frieza\Log.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Frieza\Application.cpp" />
+    <ClCompile Include="src\Frieza\Log.cpp" />
   </ItemGroup>
 </Project>
